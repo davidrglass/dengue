@@ -1,7 +1,7 @@
 # dengue
-Code to reproduce figures from preprint:
+Code to reproduce figures from "Magnitude and kinetics of the human immune cell response associated with severe dengue progression by single-cell proteomics"
 
-Batch-corrected fcs files are found here:
+Batch-corrected fcs files are found here: https://flowrepository.org/id/FR-FCM-Z5MQ
 
 Instructions for each script written at the top of the file.
 
